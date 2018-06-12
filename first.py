@@ -1,2 +1,3 @@
 name=input("enter your name:")
-print("welcome",name,"to the world of phyton")
+print("Python is Awesome")
+print("Welcome user",name)
